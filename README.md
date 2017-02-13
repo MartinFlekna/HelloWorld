@@ -1,2 +1,2 @@
 # HelloWorld
-Mz name is Earl
+My name is Earl
